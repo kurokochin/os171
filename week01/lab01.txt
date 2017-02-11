@@ -20,3 +20,4 @@ drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:29 week09
 drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:29 week10
 drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:30 xtra
 /home/fasilkom/mahasiswa/r/ricky.putra/os171/week01
+Today is 11 Feb 2017 at 21:44:29
