@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 ricky.putra StafCS 4096 Feb 11 21:36 .
+drwx--x--x  3 ricky.putra StafCS 4096 Feb 11 21:35 ..
+drwxr-xr-x  8 ricky.putra StafCS 4096 Feb 11 21:32 .git
+-rw-r--r--  1 ricky.putra StafCS    7 Feb 11 21:26 README.md
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:30 key
+-rw-r--r--  1 ricky.putra StafCS    0 Feb 11 21:36 lab01.txt
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:30 log
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:31 sandbox
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:35 week00
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:28 week01
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:28 week02
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:29 week03
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:29 week04
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:29 week05
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:29 week06
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:29 week07
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:29 week08
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:29 week09
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:29 week10
+drwxr-xr-x  2 ricky.putra StafCS 4096 Feb 11 21:30 xtra
+/home/fasilkom/mahasiswa/r/ricky.putra/os171/week01

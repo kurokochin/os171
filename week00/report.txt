@@ -1,0 +1,7 @@
+Week 00
+
+Pada week pertama atau week00, mahasiswa sistem operasi diminta:
+-membuat account google
+-membuat account github
+-mengisi form os (submit account google dan account github)
+-belajar/mencoba ssh ke badak.cs.ui.ac.id
