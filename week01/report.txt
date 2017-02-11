@@ -1,0 +1,6 @@
+Week 01
+
+Di minggu kedua lab os, para mahasiswa diminta:
+-belajar menggunakan git
+-belajar command-command dasar dalam menggunakan cli
+-belajar basic scripting
